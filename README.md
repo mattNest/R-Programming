@@ -1,2 +1,2 @@
 # R-Programming
-Collection of some side projects of R
+Collection of some data science side projects of R
