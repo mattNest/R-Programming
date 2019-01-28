@@ -1,2 +1,2 @@
 # R-Programming
-Collection of some sides project of R
+Collection of some side projects of R
